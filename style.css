@@ -1,0 +1,82 @@
+
+#id {
+
+    color:green;
+}
+
+#abc1 {
+
+    color:yellow;
+}
+
+.h {
+
+    color:blue;
+
+}
+
+.title{
+    color:blue
+  }
+
+
+#blue {
+
+    border: 5px dashed blue;
+  }
+
+  .box p,h6 {
+    color: red;
+}  
+
+a:link {
+    color:red;
+
+
+}
+
+a:visited {
+color:purple;
+}
+
+a:hover {
+
+    color:green;
+}
+
+a:active {
+    color:yellow;
+}
+
+#lol {
+    height: 500px;
+    width: 100%;
+}
+
+
+  .rounded {
+    border-radius: 15px;
+  }
+
+  .elliptical {
+    border-radius: 50px / 25px;
+  }
+
+  .kk {
+    display: block;
+    }
+         .k {
+      height: 100px;
+      width: 100px;
+      background: red;
+      color: white;
+    }
+
+    .test {
+        width: 50px;
+        height: 50px;
+        border: 1px solid red;
+        display: inline-block;
+      }
+
+      
